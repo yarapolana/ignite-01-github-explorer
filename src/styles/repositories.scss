@@ -1,0 +1,32 @@
+section.repository-list {
+  margin: 40px;
+
+  h1 {
+    font-size: 40px;
+    margin-bottom: 16px;
+  }
+
+  ul {
+    li {
+      & + li {
+        // all li elements does not apply to first in list
+        margin-top: 20px;
+      }
+
+      p {
+        font-size: 14px;
+        color: #444;
+        margin-top: 8px;
+      }
+
+      a {
+        margin-top: 16px;
+        display: inline-block;
+        text-decoration: none;
+        background-color: #e65757;
+        color: #f1f1f1;
+        padding: 10px 16px;
+      }
+    }
+  }
+}
