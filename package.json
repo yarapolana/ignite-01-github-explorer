@@ -4,7 +4,8 @@
   "main": "index.js",
   "author": {
     "name": "Yara Polana",
-    "email": "yara@dotcode.is"
+    "email": "yara@dotcode.is",
+    "url": "https://github.com/yarapolana/ignite-01-github-explorer"
   },
   "scripts": {
     "dev": "webpack serve",
