@@ -12,6 +12,23 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/yarapolana/ignite-01-github-explorer/master/.repo/screenshot.png"></p>
 
+<h2>Usage</h2>
+<p>To run the application first install dependencies</p>
+
+```
+yarn or npm install
+```
+
+<p>Then run the application</p>
+
+```
+yarn dev or npm run dev
+```
+
+<p>Your code should be up and running here</p>
+
+`http://localhost:8080`
+
 ---
 
 ### License:
